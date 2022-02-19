@@ -1,2 +1,2 @@
 # Dice
-Jeux de dés
+Jeu de dés
